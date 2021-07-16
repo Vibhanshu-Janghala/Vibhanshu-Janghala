@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vibhanshu-janghala&label=Profile%20views&color=0e75b6&style=flat" alt="vibhanshu-janghala" /> </p>
 
-- 🌱 I’m currently learning **Deep Learning**
+- 🌱 I’m currently learning **Deep Learning** for my personal projects.
 
 - 💬 Ask me about **React, NodeJS, ExpressJS**
 
