@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **React, NodeJS, ExpressJS**
 
-- 📫 How to reach me **mail@vibhanshuj.codes**
+- 📫 How to reach me **vibhanshujanghala1@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
